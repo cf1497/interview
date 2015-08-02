@@ -1,4 +1,4 @@
-// Find K-th maximum frequency words  找到第K个出现频率最高的词语
+// Find K-th maximum frequency words  找到TOP K 出现频率最高的词语
 
 public String kthFrequency(String[] words){
 	if(words.length()==0){
